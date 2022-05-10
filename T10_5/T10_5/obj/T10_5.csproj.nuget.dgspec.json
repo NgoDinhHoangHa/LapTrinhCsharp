@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\Tuan8\\Tuan8\\Tuan8.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\T10_5\\T10_5\\T10_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\Tuan8\\Tuan8\\Tuan8.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\T10_5\\T10_5\\T10_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\Tuan8\\Tuan8\\Tuan8.csproj",
-        "projectName": "Tuan8",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\Tuan8\\Tuan8\\Tuan8.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\T10_5\\T10_5\\T10_5.csproj",
+        "projectName": "T10_5",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\T10_5\\T10_5\\T10_5.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\Tuan8\\Tuan8\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\T10_5\\T10_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
