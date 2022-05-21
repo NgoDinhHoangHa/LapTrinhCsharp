@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\OnTap.exe
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\OnTap.deps.json
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\OnTap.runtimeconfig.json
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\OnTap.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\OnTap.dll
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\ref\OnTap.dll
+C:\Users\ACER\source\repos\OnTap\OnTap\bin\Debug\net5.0\OnTap.pdb
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.dll
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\ref\OnTap.dll
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.pdb
+C:\Users\ACER\source\repos\OnTap\OnTap\obj\Debug\net5.0\OnTap.genruntimeconfig.cache
